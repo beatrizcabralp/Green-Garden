@@ -1,2 +1,2 @@
-# Digital-Surge
+# Green-garden
 Projeto final do trainee da Eject
